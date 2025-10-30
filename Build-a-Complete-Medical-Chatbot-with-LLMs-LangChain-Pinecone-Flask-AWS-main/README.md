@@ -1,9 +1,9 @@
-Project Overview
+Project Overview:
 
 This project is an end-to-end implementation of a medical chatbot, built with modern Generative AI techniques. You’ll see how I leveraged large language models, vector search, and a web backend to create an interactive application that handles medical-domain queries.
 
 
- Key Features
+ Key Features:
 
 Natural-language chat interface for medical queries
 
@@ -16,7 +16,7 @@ Built on the Flask web framework for backend/API and served as a web app
 Modular, clean code structure with configuration, prompts, data, UI all separated
 
 
- Technologies Used
+ Technologies Used:
 
 Python 
 
@@ -26,7 +26,7 @@ Pinecone
 
 Flask
 
-OpenAI GPT-based model (or whichever LLM you used)
+OpenAI GPT-based model
 
 HTML/CSS frontend (or any UI you built)
 
@@ -34,7 +34,8 @@ Git & GitHub for version control
 
  AWS services: EC2, Lambda, API Gateway, etc
 
-🚀 Setup & Run Instructions
+Setup & Run Instructions
+
 
 Clone this repository:
 
