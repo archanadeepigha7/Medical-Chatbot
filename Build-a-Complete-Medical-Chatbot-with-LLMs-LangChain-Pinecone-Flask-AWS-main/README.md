@@ -1,10 +1,10 @@
 # AI Chatbot Project
 
-## 📌 Overview
+## Overview
 This is a Python-based AI Chatbot built using OpenAI’s GPT model and Streamlit.  
 The chatbot can answer user queries interactively and is integrated with a simple web UI.
 
-## 🧠 Features
+## Features
 - Natural Language Understanding (NLP)
 - User-friendly interface using Streamlit
 - Handles multiple queries smoothly
@@ -16,7 +16,7 @@ The chatbot can answer user queries interactively and is integrated with a simpl
 - Streamlit
 - Git / GitHub
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository  
    ```bash
    git clone https://github.com/YourGitHubUsername/chatbot.git
